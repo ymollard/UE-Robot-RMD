@@ -17,6 +17,8 @@ footer: "Dissémination Robot Makers' Day – Denis Lapoire, Yoan Mollard"
 ## EI9EE303
 Option Robotique et apprentissage
 
+### TODO + Tartu / Wien
+
 
 ---
 ## Objectifs
